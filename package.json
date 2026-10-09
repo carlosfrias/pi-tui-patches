@@ -1,0 +1,9 @@
+{
+  "name": "pi-tui-patches",
+  "version": "1.0.0",
+  "pi": {
+    "skills": [
+      "./skills/pi-tui-patches"
+    ]
+  }
+}
